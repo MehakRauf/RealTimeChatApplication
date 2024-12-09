@@ -83,7 +83,7 @@ ConvoNest is a real-time chat application built using **Node.js**, **Socket.io**
 ---
 
 ## Acknowledgments
-- Built with ❤️ using **Socket.io**.
+- Built with using **Socket.io**.
 - Inspired by the idea of creating simple and effective real-time communication tools.
 
 ---
